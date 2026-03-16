@@ -33,6 +33,7 @@ def use():
         time.sleep(2)
         print("Finding your Contcat Please Wait...")
         time.sleep(2)
+        time.sleep(2)
         print(f"Your comtact is succcessfully founded here is your data\n\n")
         time.sleep(1)
 
